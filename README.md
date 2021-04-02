@@ -6,6 +6,8 @@
 
 This project is written by Ben Team 9.
 
+Group members are listed alphabetically by first name.
+
 - Andrea Jiang (anj108)
 - Jessica Flynn (jmf224)
 - Matthew Dodson (mjd119)

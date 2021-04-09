@@ -16,6 +16,6 @@ Group members are listed alphabetically by first name.
 
 The following datasets were used:
 
-- [City of Pittsburgh Playgrounds](https://data.wprdc.org/dataset/playgrounds) - a collection of playgrounds within Pittsburgh
 - [City Courts and Rinks](https://data.wprdc.org/dataset/city-of-pittsburgh-courts) - a collection of courts and rinks within Pittsburgh
-- [name](link) - description
+- [City of Pittsburgh Playgrounds](https://data.wprdc.org/dataset/playgrounds) - a collection of playgrounds within Pittsburgh
+- [Operation Green Spaces](https://data.wprdc.org/dataset/operations-green-spaces) - a collection of green spaces within Pittsburgh. These are areas completely or partially covered in vegetation.

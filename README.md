@@ -1,6 +1,6 @@
 # Final-Project-CMPINF-0010
 
-[write abstract here]
+A project that determines the best Pittsburgh neighborhood for befriending an alien. The neighborhoods with the most easy to understand activities — playing sports, visiting playgrounds, and viewing art — were evaluated.
 
 ## Team
 

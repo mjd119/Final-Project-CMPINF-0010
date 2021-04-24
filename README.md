@@ -1,6 +1,6 @@
 # Final-Project-CMPINF-0010
 
-A project that determines the best Pittsburgh neighborhood for befriending an alien. The neighborhoods with the most easy to understand, yet culturally significant, activities were evaluated. We concluded that Squirrel Hill South is the best with its abundance of courts and rinks, playgrounds, and public art.
+A project that determines the best Pittsburgh neighborhood for befriending an alien. The neighborhoods with the most easy to understand, yet culturally significant, activities were evaluated. We concluded that Squirrel Hill South is the best with its abundance of basketball courts, playgrounds, and public art.
 ## Team
 
 This project is written by Ben Team 9.
